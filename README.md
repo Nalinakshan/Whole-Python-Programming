@@ -1,6 +1,4 @@
-Here is the updated README with the author mentioned prominently at the very beginning.
 
----
 
 # 🐍 Python Learning Journey: The Code Knight's Grimoire
 
